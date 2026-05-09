@@ -15,3 +15,5 @@ Patients show symptoms → system predicts disease
 ## Day 3
 Adding some of the common disease ricks.
 
+## Day 4
+Fixing some things and editing my google spreadsheets.
