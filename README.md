@@ -11,8 +11,7 @@ Patients show symptoms → system predicts disease
 
 ## Day 2
 # Commit: “Adding initial probabilities” --> meaning how common a disease is before seeing symptoms.
-
-          
+        
 ## Day 3
 Adding some of the common disease ricks.
 
