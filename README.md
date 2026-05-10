@@ -21,4 +21,3 @@ Fixing some things and editing my google spreadsheets.
 ## Day 5
 Adding python file.
 
-C:\Users\hp\Documents\Python\mainn.py
