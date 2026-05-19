@@ -22,7 +22,7 @@ Fixing some things and editing my google spreadsheets.
 Adding python file.
 
 ## Day 6
-Loaded dataset using pandas
+Loaded dataset in Python file.
 
 Pyhton file link:
 https://jupyter.org/try-jupyter/notebooks/?path=main.ipynb
