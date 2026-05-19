@@ -21,3 +21,9 @@ Fixing some things and editing my google spreadsheets.
 ## Day 5
 Adding python file.
 
+## Day 6
+Making and editing python file.
+
+Pyhton file link:
+https://jupyter.org/try-jupyter/notebooks/?path=main.ipynb
+
