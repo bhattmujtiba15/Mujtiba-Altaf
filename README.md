@@ -27,3 +27,9 @@ Loaded dataset in Python file.
 Pyhton file link:
 https://jupyter.org/try-jupyter/notebooks/?path=main.ipynb
 
+## Day 7 
+The last day of this porject. Completing my pyhton file. 
+Using the above Pyhton file link you will be redirected to a python code which is done in jupiter notebook. and by entering values we can compare between disease symptoms.
+
+Thank You.
+
