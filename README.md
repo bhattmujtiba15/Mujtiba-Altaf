@@ -31,5 +31,7 @@ https://jupyter.org/try-jupyter/notebooks/?path=main.ipynb
 The last day of this porject. Completing my pyhton file. 
 Using the above Pyhton file link you will be redirected to a python code which is done in jupiter notebook. and by entering values we can compare between disease symptoms.
 
+## Also on the remaining days of this project i will beautify my repository , google spreadsheet , and python file to make them look good and easy to read and understand.
+
 Thank You.
 
