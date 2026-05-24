@@ -61,6 +61,18 @@ USing different disease to compare and what symptoms can cause it as per probabi
 ## Day 16
 USing different disease to compare and what symptoms can cause it as per probability and using python to give us results in percentage.
 
+## Day 17 
+Adding comments into the file to make it readable.
+
+## Day 18
+Adding some of the text that will be printed on when running the file.
+
+## Day 19
+Trying to enter different diseases and camparing with other to see if the file is working correclty.
+
+## Day 20
+Got and issue with the python file when someone else is trying to exess it.
+
 
 Thank You.
 
