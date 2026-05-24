@@ -1,1 +1,27 @@
-
+| Disease                 | Fever | Cough | Headache | Prior |
+| ----------------------- | ----- | ----- | -------- | ----- |
+| Common Cold             | 0.40  | 0.85  | 0.30     | 0.10  |
+| Influenza               | 0.90  | 0.80  | 0.75     | 0.08  |
+| COVID-19                | 0.88  | 0.82  | 0.70     | 0.07  |
+| Malaria                 | 0.95  | 0.15  | 0.65     | 0.05  |
+| Dengue                  | 0.92  | 0.10  | 0.85     | 0.04  |
+| Typhoid                 | 0.90  | 0.20  | 0.55     | 0.03  |
+| Pneumonia               | 0.93  | 0.88  | 0.45     | 0.04  |
+| Tuberculosis            | 0.75  | 0.92  | 0.35     | 0.02  |
+| Migraine                | 0.05  | 0.02  | 0.98     | 0.05  |
+| Sinusitis               | 0.35  | 0.40  | 0.80     | 0.04  |
+| Bronchitis              | 0.60  | 0.90  | 0.30     | 0.03  |
+| Asthma                  | 0.10  | 0.75  | 0.20     | 0.05  |
+| Chickenpox              | 0.85  | 0.20  | 0.40     | 0.02  |
+| Meningitis              | 0.95  | 0.15  | 0.95     | 0.01  |
+| Gastroenteritis         | 0.70  | 0.10  | 0.40     | 0.04  |
+| Hepatitis A             | 0.65  | 0.05  | 0.30     | 0.02  |
+| Measles                 | 0.88  | 0.55  | 0.50     | 0.01  |
+| Allergic Rhinitis       | 0.08  | 0.60  | 0.35     | 0.06  |
+| Ear Infection           | 0.45  | 0.10  | 0.50     | 0.03  |
+| Urinary Tract Infection | 0.70  | 0.05  | 0.25     | 0.04  |
+| Food Poisoning          | 0.65  | 0.02  | 0.35     | 0.05  |
+| Strep Throat            | 0.82  | 0.45  | 0.55     | 0.03  |
+| RSV Infection           | 0.78  | 0.88  | 0.40     | 0.02  |
+| Whooping Cough          | 0.55  | 0.97  | 0.25     | 0.01  |
+| Lyme Disease            | 0.68  | 0.08  | 0.72     | 0.01  |
