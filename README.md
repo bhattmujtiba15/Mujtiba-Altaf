@@ -33,5 +33,10 @@ Using the above Pyhton file link you will be redirected to a python code which i
 
 ## Also on the remaining days of this project i will beautify my repository , google spreadsheet , and python file to make them look good and easy to read and understand.
 
+## Day 8
+Correction of Python File.
+
+## Day 9 
+
 Thank You.
 
