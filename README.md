@@ -71,8 +71,14 @@ Adding some of the text that will be printed on when running the file.
 Trying to enter different diseases and camparing with other to see if the file is working correclty.
 
 ## Day 20
-Got and issue with the python file when someone else is trying to exess it.
+Got and issue with the python file when someone else is trying to excess it.
 
+## Day 21 , 22 , 23 , 24
+Trying to fix the problem.
 
+## Day 25
+Completed every thing in google spreadsheets , github repo , pyhton file.
+
+This is the end of the repository and this project.
 Thank You.
 
