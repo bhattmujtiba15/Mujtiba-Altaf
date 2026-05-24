@@ -38,6 +38,29 @@ Using the above Pyhton file link you will be redirected to a python code which i
 Correction of Python File.
 
 ## Day 9 
+Installing Library in the python file.
+
+## Day 10
+Uploading csv file and reading it using python.
+
+## Day 11
+Uploaded google sheets.
+
+## Day 12
+Asking user to enter Symptoms used in csv files.
+
+## Day 13
+Using probability to see what disease is more likely to occur.
+
+## Day 14
+USing different disease to compare between each other. 
+
+## Day 15
+USing different disease to compare and what symptoms can cause it as per probability.
+
+## Day 16
+USing different disease to compare and what symptoms can cause it as per probability and using python to give us results in percentage.
+
 
 Thank You.
 
