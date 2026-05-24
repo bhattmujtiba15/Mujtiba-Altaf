@@ -25,7 +25,7 @@ Adding python file.
 Loaded dataset in Python file.
 
 Pyhton file link:
-https://colab.research.google.com/github/bhattmujtiba15/Mujtiba-Altaf/blob/main/main.ipynb
+https://jupyter.org/try-jupyter/notebooks/?path=main.ipynb
 
 ## Day 7 
 The last day of this porject. Completing my pyhton file. 
