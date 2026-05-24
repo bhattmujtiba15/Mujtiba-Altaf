@@ -27,6 +27,8 @@ Loaded dataset in Python file.
 Pyhton file link:
 https://jupyter.org/try-jupyter/notebooks/?path=main.ipynb
 
+Note : there was an issue running the python file so i added the main.ipynb file in the files section with the python code so anyone can copy paste it or read it what it is.
+
 
 ## Day 7 
 The last day of this porject. Completing my pyhton file. 
