@@ -75,8 +75,17 @@ Trying to enter different diseases and camparing with other to see if the file i
 ## Day 20
 Got and issue with the python file when someone else is trying to excess it.
 
-## Day 21 , 22 , 23 , 24
+## Day 21
 Trying to fix the problem.
+
+## Day 22 
+stuck with the same issue.
+
+## Day 23 
+its not possible to connect Jupiter notebook with github until in full version.
+
+## Day 24 
+Using inside of github file to represent python file.
 
 ## Day 25
 Completed every thing in google spreadsheets , github repo , pyhton file.
