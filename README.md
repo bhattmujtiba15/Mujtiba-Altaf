@@ -5,23 +5,23 @@
 ## Link for the Google sheets.
 https://docs.google.com/spreadsheets/d/1aDGwcTLHmwvrPnSYHSoDz2YvjzK5qGB6QE8tYY9IKEI/edit?gid=0#gid=0
 
-## Day 1
-# Problem Statement
-Patients show symptoms → system predicts disease
+## Day 1: 
+Selected the project topic, identified objectives, and planned the overall workflow for the disease prediction system.
 
-## Day 2
-# Commit: “Adding initial probabilities” --> meaning how common a disease is before seeing symptoms.
-        
-## Day 3
-Adding some of the common disease ricks.
+## Day 2: 
+Conducted research on disease prediction techniques and healthcare applications of artificial intelligence.
 
-## Day 4
-Fixing some things and editing my google spreadsheets.
+## Day 3: 
+Studied fundamental concepts of probability, random experiments, events, and sample spaces.
 
-## Day 5
-Adding python file.
+## Day 4: 
+Learned conditional probability and explored its role in decision-making under uncertainty.
 
-## Day 6
+## Day 5: 
+Studied Bayes' Theorem and understood how it can be applied to disease diagnosis.
+
+## Day 6: 
+Explored Bayesian Networks and their use in probabilistic reasoning and prediction systems.
 Loaded dataset in Python file.
 
 Pyhton file link:
@@ -29,66 +29,64 @@ https://jupyter.org/try-jupyter/notebooks/?path=main.ipynb
 
 Note : there was an issue running the python file so i added the main.ipynb file in the files section with the python code so anyone can copy paste it or read it what it is.
 
+## Day 7: 
+Defined the symptoms and diseases to be included in the project.
 
-## Day 7 
-The last day of this porject. Completing my pyhton file. 
-Using the above Pyhton file link you will be redirected to a python code which is done in jupiter notebook. and by entering values we can compare between disease symptoms.
+## Day 8: 
+Collected information related to common diseases and their associated symptoms.
 
-## Also on the remaining days of this project i will beautify my repository , google spreadsheet , and python file to make them look good and easy to read and understand.
+## Day 9: 
+Created a dataset containing 25 diseases and corresponding symptom probabilities.
 
-## Day 8
-Correction of Python File.
+## Day 10: 
+Organized and structured the dataset for efficient processing.
 
-## Day 9 
-Installing Library in the python file.
+## Day 11: 
+Installed and configured Python, Jupyter Notebook, and required libraries.
 
-## Day 10
-Uploading csv file and reading it using python.
+## Day 12: 
+Loaded the dataset into the development environment and verified data quality.
 
-## Day 11
-Uploaded google sheets.
+## Day 13: 
+Performed preliminary analysis of disease and symptom relationships.
 
-## Day 12
-Asking user to enter Symptoms used in csv files.
+## Day 14: 
+Implemented prior probability calculations for all diseases.
 
-## Day 13
-Using probability to see what disease is more likely to occur.
+## Day 15: 
+Developed likelihood calculations based on symptom occurrences.
 
-## Day 14
-USing different disease to compare between each other. 
+## Day 16: 
+Applied Bayes' Theorem to calculate posterior probabilities.
 
-## Day 15
-USing different disease to compare and what symptoms can cause it as per probability.
+## Day 17: 
+Built the disease prediction algorithm using Bayesian reasoning.
 
-## Day 16
-USing different disease to compare and what symptoms can cause it as per probability and using python to give us results in percentage.
+## Day 18: 
+Integrated user input functionality for symptom selection.
 
-## Day 17 
-Adding comments into the file to make it readable.
+## Day 19: 
+Tested the system with multiple symptom combinations.
 
-## Day 18
-Adding some of the text that will be printed on when running the file.
+## Day 20: 
+Verified calculation accuracy and compared outputs with expected results.
 
-## Day 19
-Trying to enter different diseases and camparing with other to see if the file is working correclty.
+## Day 21: 
+Fixed coding errors, optimized logic, and improved system reliability.
 
-## Day 20
-Got and issue with the python file when someone else is trying to excess it.
+## Day 22: 
+Enhanced code structure, readability, and documentation.
 
-## Day 21
-Trying to fix the problem.
+## Day 23: 
+Conducted comprehensive testing using various disease scenarios.
 
-## Day 22 
-stuck with the same issue.
+## Day 24: 
+Evaluated project performance and analyzed prediction outcomes.
 
-## Day 23 
-its not possible to connect Jupiter notebook with github until in full version.
+## Day 25: 
+Finalized the project, prepared documentation, updated the GitHub repository, and completed the project report.
 
-## Day 24 
-Using inside of github file to represent python file.
-
-## Day 25
-Completed every thing in google spreadsheets , github repo , pyhton file.
+## What we learned : Over these 25 days, the project evolved from a conceptual idea into a functional Disease Prediction System, providing practical experience in Python programming, probability theory, Bayesian Networks, data analysis, and predictive modeling. This journey strengthened problem-solving skills and demonstrated the application of statistical techniques in healthcare-related decision-making.
 
 This is the end of the repository and this project.
 Thank You.
